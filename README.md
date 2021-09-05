@@ -1,5 +1,6 @@
- # Hello! 
- <font size="+1"> I am a 3rd year Finance PhD Student at the Univeristy of Illinois. My CV is linked <a href="https://www.dropbox.com/s/d1e4wvhb960uw5o/Mohr_Resume_2021.pdf?dl=0">here.</a> </font>
+ # Hello"!"
+ I am a 3rd year Finance PhD Student at the Univeristy of Illinois. My CV is linked <a href="https://www.dropbox.com/s/d1e4wvhb960uw5o/Mohr_Resume_2021.pdf?dl=0">here.</a>
+ <br>
  
 # Working Papers:
  <font size="+1"> Pulling the the Plug: Retail Traders and Social Media:</font> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3917950">(SSRN)</a>
