@@ -12,7 +12,7 @@ formation and the market consequences of this importance.
 <i>with Divij Kohli</i>
 ## Useful Projects
 ### moopmsg
-Often times I find myself waiting on large stata do files to run. In python I like to check the status of my code using a Telegram bot. It allows me to know imediately if a long running script has finsihed or hit an unexpected error. 
+Often times I find myself waiting on large Stata do files to run. In Python, I like to check the status of my code using a Telegram bot. It allows me to know imediately if a long running script has finsihed or hit an unexpected error. Stata does not easily have this fuctionality. 
 
 I wrote this quick little program for stata. It is easily called in your do file. It can send any string message and small files to your Telegram. You will need to make a bot and supply the API token from Telegram
 
@@ -20,9 +20,7 @@ To download
 ```{js}
 net install moopmsg, from("https://raw.githubusercontent.com/justin-mohr/moopmsg/main")
 ```
-
 For more details on about moopmsg and its syntax
-
 ```{js}
 help moopmsg
 ```
