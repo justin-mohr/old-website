@@ -8,7 +8,7 @@ Using days on which social media platform connectivity is exogenously interrupte
 formation and the market consequences of this importance.
 
 ## Works in Progress:
-<font size="+1"> House of Stolen Cards: Credit outcomes following Lost/Stolen Cedit Cards </font>
+<font size="+1"> House of Stolen Cards: Credit Outcomes after Lost/Stolen Credit Cards </font>
 <i>with Divij Kohli</i>
 ## Useful Projects
 ### moopmsg
