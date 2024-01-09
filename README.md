@@ -1,4 +1,4 @@
- <font size="+1"> Hello! I am a 5th year Finance PhD Student at the Univeristy of Illinois. My CV is linked <a href="https://www.dropbox.com/s/doov4krxe890nd9/vita2022.pdf?dl=0">here.</a> </font>
+ <font size="+1"> Hello! I am a 5th year Finance PhD Student at the Univeristy of Illinois. I will be on the job market next year. My CV is linked <a href="https://www.dropbox.com/s/doov4krxe890nd9/vita2022.pdf?dl=0">here.</a> </font>
  <br>
  
 ## Working Papers:
@@ -14,7 +14,7 @@ formation and the market consequences of this importance.
 ### moopmsg
 Often times I find myself waiting on large Stata do files to run. In Python, I like to check the status of my code using a Telegram bot. It allows me to know imediately if a long running script has finsihed or hit an unexpected error. Stata does not easily have this fuctionality. 
 
-I wrote this  program for stata. It is easily called in your do file. It can send any string message and small files to your Telegram. You will need to make a bot and supply the API token from Telegram
+I wrote this  program for Stata. It is easily called in your do file. It can send any string message and small files to your Telegram. You will need to make a bot and supply the API token from Telegram
 
 To download 
 ```{js}
@@ -25,8 +25,8 @@ For more details on about moopmsg and its syntax
 help moopmsg
 ```
 
-I have found it quite helpful and hope you will as well!
+I have found it quite helpful and hope you will as well! (Please email me if you encounter any issues)
 
 
 ## Contact Info:
-mohr6@illinois.edu
+### mohr6@illinois.edu
