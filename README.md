@@ -1,4 +1,4 @@
- <font size="+1"> Hello! I am a 5th year Finance PhD Student at the Univeristy of Illinois. I will be on the job market next year. My CV is linked <a href="https://www.dropbox.com/s/doov4krxe890nd9/vita2022.pdf?dl=0">here.</a> </font>
+ <font size="+1"> Hello! I am a Finance PhD Student at the University of Illinois. I am on the job market this year. My CV is linked <a href="https://www.dropbox.com/s/doov4krxe890nd9/vita2022.pdf?dl=0">here.</a> </font>
  <br>
  
 ## Working Papers:
